@@ -63,7 +63,7 @@ ggplot(df_BTC,aes(x=date, y=market), symbol="BTC") + geom_point()
 ggplot(df[df$symbol=="BTC",],aes(x=date, y=market), symbol="BTC") + geom_point()
 
 
-
+#prueba
 
 
 #analizar cada variable por separado, su frecuencia y tal
